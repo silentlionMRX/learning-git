@@ -1,2 +1,3 @@
 # learning-git
-My first GitHub repository
+My first GitHub 
+I am learning Git and GitHub with ChatGPT.
