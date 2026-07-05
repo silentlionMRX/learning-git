@@ -3,3 +3,4 @@ I am learning Git.
 I will become a DevOps Engineer.
 My goal is to become a professional DevOps Engineer.
 Men eng zo'riman.
+MRX har doim zo'r.
