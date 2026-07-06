@@ -1,17 +1,10 @@
 My name is silentlion.
 I am learning git.
 I will become a DevOps Engineer.
-<<<<<<< HEAD
-<<<<<<< HEAD
 I live DevOps.
 Git bu nima bu.
 Good dey.
 git wer kim.
 Qaytarish 1.
 Qaytarish 2.
-=======
 I wonte go.
->>>>>>> 607c18f (updated mfs.txt)
-=======
-I live DevOps.
->>>>>>> 31e1f7a (updated mfs.txt)
