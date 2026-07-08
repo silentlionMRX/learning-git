@@ -8,3 +8,5 @@ git wer kim.
 Qaytarish 1.
 Qaytarish 2.
 I wonte go.
+I love git.
+Git yaxshi dastur.
