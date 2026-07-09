@@ -2,5 +2,4 @@ My name is silentlion.
 I am learning git.
 I will become a DevOps Engineer.
 I live DevOps.
-I love git.
-Git yaxshi dastur.
+Git bu nima bu.
