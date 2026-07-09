@@ -2,6 +2,7 @@ My name is silentlion.
 I am learning git.
 I will become a DevOps Engineer.
 I live DevOps.
+<<<<<<< HEAD
 Git bu nima bu.
 Good dey.
 git wer kim.
@@ -10,3 +11,6 @@ Qaytarish 2.
 I wonte go.
 I love git.
 Git yaxshi dastur.
+=======
+Git bu nima bu.
+>>>>>>> a566ba6 (updated mfs.txt)
