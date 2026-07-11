@@ -11,3 +11,4 @@ I wonte go.
 I love git.
 Git yaxshi dastur.
 git revert lesson.
+git wer kim.
