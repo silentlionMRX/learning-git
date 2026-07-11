@@ -5,3 +5,4 @@ I live DevOps.
 Git bu nima bu.
 Good dey.
 git wer kim.
+git revert lesson.
