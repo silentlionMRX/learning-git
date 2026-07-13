@@ -6,7 +6,15 @@ i like linux.
 i like broot.
 I like GitHub.
 Men bilaman.
+<<<<<<< HEAD
 Main branch.
 Rebase lesson 1.
 Rebase lesson 2.
 Git branch.
+=======
+<<<<<<< HEAD
+Main branch.
+=======
+Rebase lesson 1.
+>>>>>>> 3f5bda7 (rebase lesson 1)
+>>>>>>> 6e95002 (rebase lesson 1)
