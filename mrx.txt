@@ -11,6 +11,7 @@ Main branch.
 Rebase lesson 1.
 Rebase lesson 2.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Git branch.
 =======
 <<<<<<< HEAD
@@ -26,3 +27,7 @@ Rebase lesson 2.
 =======
 Rebase testa 3.
 >>>>>>> 52eab21 (rebase test)
+=======
+Rebase testa 3.
+rebase testa 4.
+>>>>>>> 515c938 (rebase test *)
