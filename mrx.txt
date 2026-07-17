@@ -6,3 +6,8 @@ i like linux.
 i like broot.
 I like GitHub.
 Men bilaman.
+Main branch.
+Rebase lesson 1.
+Rebase lesson 2.
+Git branch.
+my life 1.
